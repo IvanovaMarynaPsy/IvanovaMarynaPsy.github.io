@@ -2211,7 +2211,7 @@ body {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 470px) {
   .hero__photo img {
     object-position: -40px top;
   }
